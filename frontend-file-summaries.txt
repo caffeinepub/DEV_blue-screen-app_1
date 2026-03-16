@@ -1,0 +1,6 @@
+{
+  "frontend/src/App.tsx": "Minimal component that renders a full-screen blue background with no content or interactivity.",
+  "frontend/src/index.css": "Global styles defining the blue color token in OKLCH format and ensuring no overflow.",
+  "frontend/tailwind.config.js": "Tailwind configuration with custom blue color token mapped to CSS variable.",
+  "frontend/src/hooks/useQueries.ts": "Empty file as no backend queries are needed for this minimal application."
+}
